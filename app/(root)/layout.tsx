@@ -36,6 +36,7 @@ export default function RootLayout({
 
           <RightSidebar />
         </main>
+        
         <Bottombar />
         </body>
     </html>
